@@ -1,0 +1,10 @@
+C:\Users\ALIF\source\repos\EffectSimulator\EffectSimulator\bin\Debug\EffectSimulator.exe.config
+C:\Users\ALIF\source\repos\EffectSimulator\EffectSimulator\bin\Debug\EffectSimulator.exe
+C:\Users\ALIF\source\repos\EffectSimulator\EffectSimulator\bin\Debug\EffectSimulator.pdb
+C:\Users\ALIF\source\repos\EffectSimulator\EffectSimulator\obj\Debug\EffectSimulator.csprojAssemblyReference.cache
+C:\Users\ALIF\source\repos\EffectSimulator\EffectSimulator\obj\Debug\EffectSimulator.EffectSim.resources
+C:\Users\ALIF\source\repos\EffectSimulator\EffectSimulator\obj\Debug\EffectSimulator.Properties.Resources.resources
+C:\Users\ALIF\source\repos\EffectSimulator\EffectSimulator\obj\Debug\EffectSimulator.csproj.GenerateResource.cache
+C:\Users\ALIF\source\repos\EffectSimulator\EffectSimulator\obj\Debug\EffectSimulator.csproj.CoreCompileInputs.cache
+C:\Users\ALIF\source\repos\EffectSimulator\EffectSimulator\obj\Debug\EffectSimulator.exe
+C:\Users\ALIF\source\repos\EffectSimulator\EffectSimulator\obj\Debug\EffectSimulator.pdb
